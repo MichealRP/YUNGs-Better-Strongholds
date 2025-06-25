@@ -11,6 +11,8 @@
     "separation": 50,
     "chunk_distance_to_first_ring": 80,
     "ring_chunk_thickness": 96,
+    "max_ring_section": 1,
+    "count": 3,
     "type": "betterstrongholds:stronghold"
   }
 }
